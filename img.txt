@@ -1,0 +1,135 @@
+<!!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/animate.css">
+		<!-- FONT AWESOME -->
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+		<!--favicon-->
+		<link rel="shortcut icon" href="favicon.ico">
+		<!--goggle fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+		<!--fontawesome cdn-->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		<!--main author styles -->
+		<title>liquid gem</title>
+	</head>
+	<body>
+
+		<!-- Top Section Logo - Navigation -->							
+			<img src="img/pink.png" hspace="50">	
+		<ul class="topNav">  
+			<li>HOME</li>
+			<li>ABOUT</li>
+			<li>CASE STUDIES</li>
+			<li>BLOG</li>
+			<li>CONTACT</li>	
+		</ul>
+	<hr>
+		
+		<h1>Hello there, I'm <font color="#C71585">Rod Trevino.</font>  Welcome to my design portfolio!</h1>
+		</div>
+		<h3>-Photographer and Web Developer-</h3>
+
+		<div class="Sky">
+		<img src="img/montana.jpg" alt="Sky Line" height="390" width="1500" hspace="30">
+		</div> 
+
+
+		<!-- Middle section - about me - my work-->
+		<div class="about">
+		<p><font color="#C71585" font face="fantasy">about me</font></p>
+		
+		
+		<p><font-awesome>Hey there, Im learning to be a photographer and web<br>
+		deveoper! This is my brand new portfolio. It's super cool because it's<br>
+		completely responsive! That means you can re-size it to whatever you<br>
+		like and it always looks great.  Have a look around and enjoy.</font-awesome></p>
+		</div>
+
+		<div class="work">
+		<p><font color="#C71585" font face="fantasy">my work</font></p>
+		<p>Below, you will be able to find lots of my work. I take loads of pretty pictures<br>
+		and I also make websites. If you like what you see you can contact me<br>
+		below! Maybe you would like to hire me or just have a chat, either way. I<br>
+		look forward to hearing from you.</p>
+		</div>
+
+
+		<div class="bottom">
+		
+	  	<p>
+	      	 
+	         <img src="img/hills.jpg" class="animated flip">
+	      </a>
+	      
+	         <img src="img/Dove.jpg" class="animated flip">
+	      </a>
+	     
+	         <img src="img/gates.jpg" class="animated flip">
+	      </a>
+	      
+	         <img src="img/fishing.jpg" class="animated flip">
+	      </a>
+	       
+	         <img src="img/skies.jpg" class="animated flip">
+	      </a>
+	     </p>
+
+	     <p>	        
+	         <img src="img/quad.jpg" class="animated flip">
+	      </a>
+	      
+	         <img src="img/retro.jpg" class="animated flip">
+	      </a>
+	      
+	         <img src="img/ring.jpg" class="animated flip">
+	      </a>
+	      
+	         <img src="img/Trapped.jpg" class="animated flip">
+	      </a>
+	       
+	         <img src="img/winter.jpg" class="animated flip">+
+	      </a>
+      	</p>
+
+      	</div>
+
+      	<h1><font color="#C71585">Thanks for looking at my new website.</font></h1>
+
+      	<div class="godzilla">      	
+		<h1 ><font color="#C71585">Contact</font></h1>
+		</div>
+				
+		<div class="contactForm">
+		<div class="socialIcons">
+		
+		<p class="Icons">		
+			<i class="fa fa-twitter"></i>
+			<i class="fa fa-facebook"></i>
+			<i class="fa fa-google"></i>
+			<i class="fa fa-youtube"></i>
+		</p>
+
+			<label>Name</label>
+			<br>
+			<input type="text">
+			<br><br><br>
+			<label>Email</label>
+			<br>
+			<input type="email">
+			<br><br><br>
+			<label>Message</label>
+			<br><br>
+			<textarea rows="3"></textarea> 
+			<br><br><br>
+			<button>SEND</button>
+		
+
+		</div>
+		</div>
+		
+	</body>				
+</html>

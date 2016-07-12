@@ -1,0 +1,21 @@
+/*Aligns text to Center*/
+body {
+	text-align:center;
+	background-color: #222222;
+
+}
+/*Makes Title Text White*/
+h1.headingTitle {
+	color: white;
+}
+/*SETS FONT SIZE*/
+.headingTitle {
+	font-size:70px;
+}
+
+.tshirt {
+	margin:20px 0;
+}
+
+
+/*Lets create the magnifying glass*/
